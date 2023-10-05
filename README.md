@@ -8,7 +8,15 @@ If you want to use it, you need to enable the heroku CORS for temporaily access 
 
 you can try and fork it in the codesandbox: https://codesandbox.io/s/bible-flipbook-7yr728?file=/src/index.js
 
+## Demo picture
 ![image](https://github.com/pang-lee/React_BibleReader/assets/13313753/838b18cd-2e10-4f19-9883-0fc435d8b032)
+
+![image](https://github.com/pang-lee/React_BibleReader/assets/13313753/de00bb31-7b17-46a0-93cf-83057a39c061)
+
+![image](https://github.com/pang-lee/React_BibleReader/assets/13313753/a04f2d3a-8cc7-4237-bd7e-b41fcc7b6b44)
+
+![Uploading image.png…]()
+
 
 
 ## Available Scripts
