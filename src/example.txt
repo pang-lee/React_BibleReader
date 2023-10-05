@@ -1,0 +1,25 @@
+// import React, { forwardRef } from "react";
+// import { createUseStyles } from "react-jss";
+
+// const useStyles = createUseStyles({
+//   root: {
+//     margin: 50
+//   },
+//   style1: {
+//     background: "red"
+//   }
+// });
+
+// const App = () => {
+// const classes = useStyles();
+
+// return <div className={classes.root}>Hello World !</div>;
+// }
+
+// export default App
+
+// The Reference API
+//  https://blog.kaaass.net/archives/491
+// https://github.com/Nodlik/react-pageflip
+// https://github.com/pang-lee/album/tree/main
+// https://segmentfault.com/a/1190000039866635 (簡體繁體轉換)
