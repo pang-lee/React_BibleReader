@@ -4,6 +4,10 @@ This project template was built with [Create React App](https://github.com/faceb
 
 The project is a E-book like bible, It can display a book of the bible and can easily do pageflip to see the bible content.
 
+If you want to use it, you need to enable the heroku CORS for temporaily access the bible data.
+
+you can try and fork it in the codesandbox: https://codesandbox.io/s/bible-flipbook-7yr728?file=/src/index.js
+
 ![image](https://github.com/pang-lee/React_BibleReader/assets/13313753/838b18cd-2e10-4f19-9883-0fc435d8b032)
 
 
