@@ -1,8 +1,11 @@
-# Redux Todos Example
+# React Bible Reader App
 
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
 
-Projects built with Create-React-App include support for ES6 syntax, as well as several unofficial / not-yet-final forms of Javascript syntax such as Class Properties and JSX. See the list of [language features and polyfills supported by Create-React-App](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#supported-language-features-and-polyfills) for more information.
+The project is a E-book like bible, It can display a book of the bible and can easily do pageflip to see the bible content.
+
+![image](https://github.com/pang-lee/React_BibleReader/assets/13313753/838b18cd-2e10-4f19-9883-0fc435d8b032)
+
 
 ## Available Scripts
 
